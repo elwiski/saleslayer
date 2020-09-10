@@ -1,4 +1,4 @@
-1º -> "npm -install" desde la terminal de comandos en la carpeta raiz.
+1º -> "npm install" desde la terminal de comandos en la carpeta raiz.
 
 
 
