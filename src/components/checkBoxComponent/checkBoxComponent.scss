@@ -1,0 +1,17 @@
+
+.inputCheckboxContainer {
+    border: 1px solid #ccc;
+    margin: 1px;
+}
+
+.selectionLabel {
+    text-align: center;
+    padding: 10px;
+}
+
+.inputCheckboxContainer:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+.inputCheckboxContainer input:checked ~ .checkmark {
+    background-color: #2196f3;
+}
